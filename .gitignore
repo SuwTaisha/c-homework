@@ -1,3 +1,4 @@
 bin/
 obj/
 homework.layout
+*.exe
